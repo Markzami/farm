@@ -32,11 +32,11 @@
        Intensity = 100--%
    },
    HC_DM_Mythics = {
-       Dualhook = falsefalse,
+       Dualhook = false,
        Intensity = 100--%
    },
    Gems = {
-       Dualhook = falsefalse,
+       Dualhook = false,
        Intensity = 100--%
   }
 }
